@@ -1,14 +1,12 @@
-print("Examples of variables:")
+print(name)
+
+level = 1
 score = 0
-lives = 3
-player1_name = "Leeroy Jenkins"
-player2_name = "Gustavo Pezzi"
-print (type(score))
+num_lives = 5
 
-salary = 10 / 2
-print ("Salary is "..salary)
+level = level + 1
 
-salary2 = 25 / 2
-print ("Salary is "..salary2)
+print ("Level: "..level)
 
-print("Name is "..player1_name)
+num_lives = num_lives - 1
+print ("lives: "..num_lives)
