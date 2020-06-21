@@ -1,12 +1,16 @@
-print(name)
-
 level = 1
-score = 0
+score = 500
 num_lives = 5
+time_ellapsed = 0
 
-level = level + 1
+if score >= 1000 then 
+  level = level +1
+  num_lives = 5
+else
+  time_ellapsed = time_ellapsed + 1
+end 
 
 print ("Level: "..level)
-
-num_lives = num_lives - 1
-print ("lives: "..num_lives)
+print ("Score: "..score)
+print ("Lives: "..num_lives)
+print (time_ellapsed)
