@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 16_logical_operators.lua"
+run = "lua 18_string_manipulation.lua"
