@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 19_multi_line_strings.lua"
+run = "lua 20_multiple_assignment.lua"
