@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 23_for_loop.lua"
+run = "lua 24_while_loop.lua"
