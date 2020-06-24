@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 26_variable_scope.lua"
+run = "lua 28_menu_loop_example.lua"
