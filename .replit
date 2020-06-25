@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 33_loop_activity_solution.lua"
+run = "lua 34_tables_in_lua.lua"
