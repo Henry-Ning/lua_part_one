@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 29_finding_distance_and_angel_between_points.lua"
+run = "lua 30_an_introduction_to_function.lua"
