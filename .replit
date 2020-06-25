@@ -1,2 +1,2 @@
 language = "lua"
-run = "lua 30_an_introduction_to_function.lua"
+run = "lua 33_loop_activity_solution.lua"
